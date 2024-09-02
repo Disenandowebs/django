@@ -1,6 +1,7 @@
 # COMO EMPEZAR CON DJANGO
 
-1. Instalar Python, pueden descargarlo de este enlace ![Python.org](https://www.python.org/)
+1. Instalar Python, pueden descargarlo de este enlace ![python.org](https://www.python.org/).
+2. Instalar Django, para descargarlo pueden ir a este enlace ![djangoproject.com](https://www.djangoproject.com/download/).
 
 ## Proyecto Django
 
