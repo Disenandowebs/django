@@ -10,4 +10,6 @@ Primero, explicamos en profundidad lo que hace Django, y cómo crear aplicacione
 <!-- 
 https://www.youtube.com/watch?v=T1intZyhXDU 
 [****](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
+CURSO DE DJANGO
+https://www.youtube.com/watch?v=ruQIRGXfUKY&list=PLkVpKYNT_U9cl3hhVg_ROOlSY33uuBWZh&index=2
 -->
