@@ -1,4 +1,8 @@
-# Proyecto Django
+# COMO EMPEZAR CON DJANGO
+
+1. Instalar Python, pueden descargarlo de este enlace ![Python.org](https://www.python.org/)
+
+## Proyecto Django
 
 Este es el proyecto Django que estoy realizando con el video de Fazt.
 
