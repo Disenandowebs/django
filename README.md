@@ -2,6 +2,7 @@
 
 1. Instalar Python, pueden descargarlo de este enlace ![python.org](https://www.python.org/).
 2. Instalar Django, para descargarlo pueden ir a este enlace ![djangoproject.com](https://www.djangoproject.com/download/).
+3. Crear un directorio, en la terminal ir a ese directorio y crear el proyecto con django.
 
 ## Proyecto Django
 
