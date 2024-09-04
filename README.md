@@ -11,6 +11,19 @@
 
 Django es un framework o marco de trabajo desarrollado en Python que nos da las herramientas y librerías para crear aplicaciones web.
 
+Cuál es el patrón de arquitectura de Django? Es el MTV o Model Template View, que es una variante del modelo MVC o Model View Controller. Expliquemos un poco:
+
+1. Modelo (Model): Es la capa que maneja la lógica de acceso a los datos. Define la estructura de la base de datos y las relaciones entre los datos. En Django, los modelos son clases que heredan de django.db.models.Model.
+   
+   ```
+   from django.db import models
+
+   class Blog(models.Model):
+      title = models.CharField(max_length=200)
+      description = models.TextField()
+      date = models.DateTimeField()
+   ```
+
 ## Proyecto Django
 
 Este es el proyecto Django que estoy realizando con el video de Fazt.
