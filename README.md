@@ -7,6 +7,10 @@
    django-admin startproject [nombre_del_proyecto]
    ```
 
+## ¿QUÉ ES DJANGO?
+
+Django es un framework o marco de trabajo desarrollado en Python que nos da las herramientas y librerías para crear aplicaciones web.
+
 ## Proyecto Django
 
 Este es el proyecto Django que estoy realizando con el video de Fazt.
