@@ -24,6 +24,23 @@ Cuál es el patrón de arquitectura de Django? Es el MTV o Model Template View, 
       date = models.DateTimeField()
    ```
 
+2. Vista (View): Es la capa que maneja la lógica de presentación. Recibe las solicitudes web y devuelve las respuestas. Las vistas pueden ser funciones o clases en Python.
+
+   ```
+   from django.http import HttpResponse
+   from django.shortcuts import render
+
+   def hello_world(request):
+      return HttpResponse("Hello, World!")
+   ```
+
+3. Plantilla (Template): Es la capa que maneja la lógica de presentación. Define cómo se muestran los datos en la interfaz de usuario. Django utiliza un lenguaje de plantillas que permite incrustar variables y lógica de control en el HTML.
+
+   ```
+   <h1>{{ title }}</h1>
+   <p>{{ content }}</p>
+   ```
+
 ## Proyecto Django
 
 Este es el proyecto Django que estoy realizando con el video de Fazt.
