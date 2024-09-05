@@ -1,4 +1,4 @@
-![Proyecto Django]()
+![Proyecto Django](/src/djangoproject.gif)
 
 # COMO EMPEZAR CON DJANGO
 
